@@ -47,8 +47,8 @@ function setup(){
 }
 
 function draw(){
-    if(backgroundImg)
-        background(backgroundImg);
+    
+        background("black");
     
         noStroke();
         textSize(35)
